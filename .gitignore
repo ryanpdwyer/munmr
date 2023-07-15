@@ -1,0 +1,11 @@
+# Default python gitignore
+#
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
